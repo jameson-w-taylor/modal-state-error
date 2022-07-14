@@ -1,0 +1,7 @@
+{
+  "name": "modal-state-error",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
